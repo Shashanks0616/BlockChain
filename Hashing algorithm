@@ -1,0 +1,3 @@
+//Hashing Algorithm
+
+Hashing or hash is a common term when discussing blockchain technology. Hashing refers to the transformation and generation of input data of any length into a string of a fixed size, which is performed by a specific algorithm. In particular, the Bitcoin hash algorithm is SHA-256 or Secure Hashing Algorithm 256 bits. This algorithm is a one-way cryptographic function as the original data cannot be retrieved via decryption.
