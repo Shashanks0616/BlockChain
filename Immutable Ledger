@@ -1,0 +1,29 @@
+///What makes blockchain immutable?
+
+Blockchain’s immutability arises from cryptographic algorithms that are used to secure information and data stored. All the data is stored in a block and contains a specific cryptographic hash representing its data. Crypto hashing is a process in which the plaintext input creates a unique hash value as an output. The length of hashes remains constant irrespective of input properties.
+
+For example, while using the Secure Hashing Algorithm 256 (SHA-256), the input is first converted to binary before undergoing encryption. If we input the word ‘Hello’ into SHA-256, the output generated will consist of 64 characters, which is the same length as the outputs for ‘Hello world’ and ‘Hello John.’
+
+
+
+What are the benefits of immutability?
+Data security
+Immutability protects the integrity of data in the blockchain. Data cannot be edited, deleted, or transferred after being recorded, ensuring the security and accuracy of information. Individuals and businesses often consider blockchains an option for storing sensitive data.
+
+Auditing efficiency
+Immutability provides benefits like efficient auditing. When data is immutable, any alterations made to a transaction are recorded permanently, making it easier to track and audit transactions. Therefore, it reduces the possibility of fraudulent activities and increases transparency.
+
+New opportunities
+Immutability creates new opportunities for businesses to innovate. For instance, companies can use smart contracts, which they can write directly into lines of code, to conduct transactions between buyers and sellers or to manage supply chains and real estate transactions.
+
+Dispute prevention
+Immutability helps prevent disputes as all the transactions are recorded permanently. The data integrity and source can be checked using blockchain technology. This feature is particularly beneficial in insurance claims and real estate transactions.
+
+What are the challenges of immutability?
+While the immutability of blockchain is known to ensure data security, there can be certain cases when the sensitive data stored can be prone to attacks. The biggest challenge posed by immutability is the inability to correct mistakes in the data once it has been added to the blockchain. This can cause harm when there is a legal requirement to scrap certain information. Here are two challenges that immutability in blockchain face:
+
+51 percent attack
+The 51 percent attack can alter the immutability of the blockchain. In this kind of attack, a single entity or organisation can take control of the blockchain’s hashing power, causing disruption. The attacker must control over 50% of the network‘s hash rate to gain control. Hence, the attack is called a 51% attack. With such power, the attacker can block new transactions or even reverse transactions, which leads to a double spending attack.
+
+Quantum computing
+Quantum computing is a big challenge to cryptography in the blockchain industry. It can reverse-engineer the public key of a blockchain network and discover private keys to hack the system. Quantum computing can overpower blockchain cryptography, leading to cryptocurrency thefts. A Deloitte study confirmed that 25% of bitcoin could be vulnerable to cyber-attacks as of 2020, costing approximately $40 billion at the time.
